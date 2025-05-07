@@ -43,6 +43,18 @@ _“Instead of just asking ‘Does the signal work?’, we ask ‘How long does 
 
 ## Midterm Project:
 _**[Natural language processing 10-Ks to identify risks](report.md)**_
+This project investigates how firm exposure to generative AI — based on key textual features extracted from 10-K filings — affected stock performance following the release of ChatGPT in late 2022.
+
+Six textual themes were analyzed: **AI_Exposure**, **Automation_Focus**, **Human_Capital_Impact**, **Innovation_Focus**, **Regulatory_Risk**, and **Productivity_Gains**. Firms were sorted into high- and low-exposure portfolios, and cumulative returns were tracked from November 15 to December 15, 2022.
+
+Key findings include:
+- Firms with strong **automation** and **innovation** focus saw better stock returns.
+- High **regulatory risk** was associated with negative returns.
+- Exposure to **AI-related language** correlated with stronger short-term performance.
+
+This analysis suggests that how firms communicate their positioning on emerging technologies like AI can have immediate market implications.
+
+---
 
 ## 🤝 Team Project: [Stock Prediction Analysis](https://www.theasians.streamlit.app)
 
