@@ -4,7 +4,7 @@
 College of Business – Finance and Business Analytics
 
 <p align="center">
-  <img src="images/Minh Nguyen.png" alt="Minh Nguyen" width="60%">
+  <img src="images/Minh Nguyen.jpg" alt="Minh Nguyen" width="60%">
 </p>
 
 ---
