@@ -57,7 +57,7 @@ This analysis suggests that how firms communicate their positioning on emerging 
 
 ---
 
-## 🤝 Team Project: [Stock Prediction Analysis](https://www.theasians.streamlit.app)
+## 🤝 Team Project: [Stock Prediction Analysis](https://theasians.streamlit.app/)
 
 <p align="center">
   <img src="images/Cum vs Act.png" alt="Cumulative Return Graph" width="70%">
