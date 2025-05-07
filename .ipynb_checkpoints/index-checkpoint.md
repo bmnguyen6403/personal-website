@@ -44,7 +44,7 @@ _“Instead of just asking ‘Does the signal work?’, we ask ‘How long does 
 ## 🤝 Team Project: [Stock Prediction Analysis](https://www.theasians.streamlit.app)
 
 <p align="center">
-  <img src="images/Cum vs Act.jpeg" alt="Cumulative Return Graph" width="70%">
+  <img src="images/Cum vs Act.png" alt="Cumulative Return Graph" width="70%">
 </p>
 
 This team project compares cumulative returns across signal-level portfolios using the **Open Asset Pricing (OpenAP)** library and a variety of machine learning models:
