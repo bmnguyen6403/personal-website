@@ -41,6 +41,9 @@ By analyzing **how signals decay**, we can align them to specific investment hor
 _“Instead of just asking ‘Does the signal work?’, we ask ‘How long does it work for?’ — a more strategic question for investment design.”_
 ---
 
+## Midterm Project:
+_**[Natural language processing 10-Ks to identify risks](report.md)**_
+
 ## 🤝 Team Project: [Stock Prediction Analysis](https://www.theasians.streamlit.app)
 
 <p align="center">
