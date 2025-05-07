@@ -11,7 +11,7 @@ College of Business – Finance and Business Analytics
 
 # Portfolio
 
-## 📈 Stock Return Survival Analysis
+## Stock Return Survival Analysis
 
 <p align="center">
   <img src="images/decay_graph.png" alt="Signal Decay Analysis" width="70%">
@@ -57,7 +57,7 @@ This analysis suggests that how firms communicate their positioning on emerging 
 
 ---
 
-## 🤝 Team Project: [Stock Prediction Analysis](https://theasians.streamlit.app/)
+## Team Project: [Stock Prediction Analysis](https://theasians.streamlit.app/)
 
 <p align="center">
   <img src="images/Cum vs Act.png" alt="Cumulative Return Graph" width="70%">
@@ -91,7 +91,7 @@ I aspire to launch my own startup in the future, combining my background in Fina
 
 ---
 
-# 📬 Contact
+# Contact
 
 - **Email**: bmnguyen6403@gmail.com
 - **Phone**: (484) 935-9166 
