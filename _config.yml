@@ -3,7 +3,7 @@ logo: "/images/Minh Nguyen.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://www.linkedin.com/in/minhnguyen060403/">LinkedIn</a> 
   <br>
-  <a href="https://www.theasians.streamlit.app" class="btn btn--info">Portfolio</a>  
+  <a href="https://theasians.streamlit.app/" class="btn btn--info">Portfolio</a>  
   <br>
   <a href="https://github.com/bmnguyen6403">GitHub</a>  
   
